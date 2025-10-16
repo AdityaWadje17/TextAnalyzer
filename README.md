@@ -1,2 +1,2 @@
 # TextAnalyzer
-This projest was part of the AI club task.
+This project was part of the AI club task.
